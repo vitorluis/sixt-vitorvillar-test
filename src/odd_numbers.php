@@ -5,7 +5,7 @@
  * Date: 15/05/18
  * Time: 19:31
  */
-require_once("../vendor/autoload.php");
+require_once("vendor/autoload.php");
 
 use PHPUnit\Framework\TestCase;
 

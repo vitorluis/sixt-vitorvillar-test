@@ -1,0 +1,17 @@
+{
+  "name": "Vitor Villar Sixt Test",
+  "authors": [
+    {
+      "name": "Vitor Villar",
+      "email": "vitor.luis98@gmail.com"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "7.0.*"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}
